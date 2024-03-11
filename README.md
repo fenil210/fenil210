@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fenilramoliya2103@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1HY6qNCp7uQbX1GG5KrVedY4jyt2ysG4G/view?usp=sharing)
+- 📄 Find my resume [here](https://drive.google.com/file/d/1HY6qNCp7uQbX1GG5KrVedY4jyt2ysG4G/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
