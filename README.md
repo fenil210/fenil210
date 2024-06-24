@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil210&label=Profile%20views&color=0e75b6&style=flat" alt="fenil210" /> </p>
 
-- 🌱 I’m currently working on **LLM, Langchain, Explainable AI, Federated Learning**
+- 🌱 I’m currently exploring **LLM, Explainable AI, Federated Learning**
 
 - 📫 How to reach me **fenilramoliya2103@gmail.com**
 
