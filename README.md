@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fenil210&label=Profile%20views&color=0e75b6&style=flat" alt="fenil210" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/fenilramoliya210/">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=WZt_Xe8AAAAJ&hl=en">Google Scholar</a> ·
   <a href="mailto:fenilramoliya2103@gmail.com">Email</a>
