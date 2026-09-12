@@ -28,16 +28,6 @@ My research background spans machine learning and deep learning, with journal an
 - Retrieval, context engineering, and long-term agent memory
 - AI systems for research and scientific workflows
 
-### Selected projects
-
-| Project | What it explores |
-| --- | --- |
-| [**Database-MCP**](https://github.com/fenil210/Database-MCP) | MCP server for connecting AI agents with SQL databases |
-| [**MemoraAI**](https://github.com/fenil210/MemoraAI) | Graph-native long-term memory for AI systems |
-| [**AiReS**](https://github.com/fenil210/AiReS) | LLM-powered scientific document interaction and retrieval |
-| [**IntelliMarket**](https://github.com/fenil210/IntelliMarket) | Multi-agent investment research and analysis |
-| [**Medical-RAG**](https://github.com/fenil210/Medical-RAG) | Retrieval-augmented generation for medical information retrieval |
-
 ### Tech I work with
 
 **AI:** LLMs · Agentic Systems · MCP · RAG · Model Evaluation  
