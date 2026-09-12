@@ -1,30 +1,51 @@
-<h1 align="center">Hi 👋, I'm Fenil Ramoliya</h1>
-<h3 align="center">An AI enthusiast</h3>
+<h1 align="center">Hey, I'm Fenil Ramoliya 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil210&label=Profile%20views&color=0e75b6&style=flat" alt="fenil210" /> </p>
-
-- 🌱 I’m currently exploring **LLM, Explainable AI, Federated Learning**
-
-- 📫 How to reach me **fenilramoliya2103@gmail.com**
-
-- 📄 Find my resume [here](https://drive.google.com/file/d/1D1RAsW4OrazbR4f7eINRTDWWTiNjM_D3/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fenilramoliya210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fenilramoliya210/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ramoliyafenil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ramoliyafenil" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/fenil_ramoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/fenil_ramoliya" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer, AI</b> · Building agentic systems for academic research and writing
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging-face" width="40" height="40"/> </a> 
-</p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fenilramoliya210/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=WZt_Xe8AAAAJ&hl=en">Google Scholar</a> ·
+  <a href="mailto:fenilramoliya2103@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenil210&show_icons=true&locale=en&layout=compact" alt="fenil210" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil210&show_icons=true&locale=en" alt="fenil210" /></p>
-<!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenil210&" alt="fenil210" /></p>
--->
+### About me
+
+I'm a Software Engineer, AI at Cactus Communications, working on agentic systems and AI-powered research and writing workflows.
+
+I enjoy working across the AI engineering stack — from model and prompt experimentation to agent orchestration, tool integrations, backend APIs, deployment, and production reliability.
+
+My research background spans machine learning and deep learning, with journal and conference publications across areas including explainable AI and federated learning.
+
+### What I'm interested in
+
+- Agentic AI and multi-agent systems
+- Large language model systems and evaluation
+- Model Context Protocol (MCP) and tool integrations
+- Retrieval, context engineering, and long-term agent memory
+- AI systems for research and scientific workflows
+
+### Selected projects
+
+| Project | What it explores |
+| --- | --- |
+| [**Database-MCP**](https://github.com/fenil210/Database-MCP) | MCP server for connecting AI agents with SQL databases |
+| [**MemoraAI**](https://github.com/fenil210/MemoraAI) | Graph-native long-term memory for AI systems |
+| [**AiReS**](https://github.com/fenil210/AiReS) | LLM-powered scientific document interaction and retrieval |
+| [**IntelliMarket**](https://github.com/fenil210/IntelliMarket) | Multi-agent investment research and analysis |
+| [**Medical-RAG**](https://github.com/fenil210/Medical-RAG) | Retrieval-augmented generation for medical information retrieval |
+
+### Tech I work with
+
+**AI:** LLMs · Agentic Systems · MCP · RAG · Model Evaluation  
+**Engineering:** Python · TypeScript · FastAPI · PostgreSQL  
+**Infrastructure:** AWS · Docker · Kubernetes
+
+### Research
+
+I also work on academic research across machine learning, deep learning, explainable AI, and federated learning, with **180+ citations** across my publications.
+
+→ [View my publications on Google Scholar](https://scholar.google.com/citations?user=WZt_Xe8AAAAJ&hl=en)
